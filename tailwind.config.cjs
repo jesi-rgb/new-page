@@ -4,7 +4,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Chillax', 'Alpino', 'Kola', 'Figtree']
+        sans: ['Alpino', 'Kola', 'Figtree']
       }
     }
   },
