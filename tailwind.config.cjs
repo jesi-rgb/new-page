@@ -4,7 +4,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Alpino', 'Kola', 'Figtree']
+        sans: ['Whirly Birdie']
       }
     }
   },
